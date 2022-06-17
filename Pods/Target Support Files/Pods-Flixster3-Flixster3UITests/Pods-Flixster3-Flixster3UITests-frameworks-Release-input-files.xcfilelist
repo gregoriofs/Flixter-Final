@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Flixster3-Flixster3UITests/Pods-Flixster3-Flixster3UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
